@@ -2,7 +2,7 @@
 Autorzy:
 Mateusz Krakowski \
 Bartosz Latosek \
-Radosław Kostrzewski \
+Radosław Kostrzewski
 
 
 ## Topic
